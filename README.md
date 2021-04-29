@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LauraEmilia33
 - 👀 I’m interested in 🎹 Music 🎨 Design 👾 Programming
-- 🌱 I’m currently learning 🐛 JavaScript and Github
+- 🌱 I’m currently learning React 💫
 - 💞️ I’m looking to collaborate on 👀 Anything that helps me learn!
 - 📫 How to reach me => laura.emilia.barojas@gmail.com
 
